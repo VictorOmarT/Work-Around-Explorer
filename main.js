@@ -5,7 +5,7 @@ import{getAverageSalaryByRole, getAverageSalaryByCompany, getSalaryAtCompany, ge
 const companies = getCompanies();
 const roles = getRoles();
 console.log(Pi)
-
+//kasjbndkajsbdklasljbd
 // Create input buttons for every company and role represented in the data.
 renderInputButtons(companies, 'company');
 renderInputButtons(roles, 'role');
