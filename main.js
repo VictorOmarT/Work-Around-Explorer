@@ -3,7 +3,7 @@
 // TODO: Get the companies and roles using the salaryData module.
 const companies = [];
 const roles = [];
-
+// ola k ase 
 // Create input buttons for every company and role represented in the data.
 renderInputButtons(companies, 'company');
 renderInputButtons(roles, 'role');
